@@ -1,4 +1,3 @@
-axel
 <?php
 /**
  * CodeIgniter
